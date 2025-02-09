@@ -1,74 +1,124 @@
-# Mohamed Algharib's Professional Portfolio 🚀
+# 🚀 Mohamed Algharib | Senior Front-End Developer
 
-## 👋 Introduction
+## 👋 Welcome to My Professional Portfolio
 
-Welcome to my GitHub profile! I am Mohamed Algharib, an experienced front-end developer specializing in Angular. My journey in the tech world has been marked by my passion for creating responsive, user-friendly interfaces and scalable web applications. 
+Hello! I am **Mohamed Algharib**, a passionate **Senior Front-End Developer** with expertise in **Angular** and modern web technologies. With a strong background in building scalable, responsive, and user-friendly web applications, I take pride in crafting seamless digital experiences.
 
-📧 Email: [mohamedalgharib26@gmail.com](mailto:mohamedalgharib26@gmail.com)  
-📱 Phone: +966575219537  
-📍 Location: Riyadh, Saudi Arabia
+📍 **Location:** Riyadh, Saudi Arabia  
+📧 **Email:** [mohamedalgharib26@gmail.com](mailto:mohamedalgharib26@gmail.com)  
+📱 **Phone:** +966 575219537  
+🔗 **GitHub:** [github.com/Diyasty](https://github.com/Diyasty)  
+🔗 **LinkedIn:** [linkedin.com/in/mohamed-algharib26](https://linkedin.com/in/mohamed-algharib26)  
+🔗 **Portfolio:** [View My Work](https://portfolio-ec3f0.web.app/)  
 
 ---
 
 ## 💼 Professional Experience
 
-### ANGULAR FRONT-END DEVELOPER, Shaqra University
-**03/2022 – 08/2023**  
-📍 Shaqra, Saudi Arabia
+### **Senior Front-End Developer (Project-Based), SDAIA**
+📅 **Sep 2024 – Present** | 📍 Riyadh, Saudi Arabia
 
-- Specialized in crafting user-friendly interfaces for web applications, particularly internal ERP systems.
-- Utilized HTML, CSS (including SCSS), and Angular framework to create responsive and interactive designs.
-- Collaborated with managers and professors to organize educational processes, structure tables, and courses within the system.
-- Proficient in Angular CLI, Angular Material, Angular Unit Testing, and Bootstrap.
-- Ensured high-quality, scalable solutions that meet project objectives.
+- Developed and maintained high-performance web applications using **Angular**.
+- Designed user interfaces with a focus on **performance, usability, and accessibility**.
+- Integrated APIs and backend services in collaboration with backend developers.
+- Wrote **clean, maintainable, and testable code** with best practices.
+- Conducted **code reviews, troubleshooting, and bug fixes**.
+- Ensured compliance with **government security standards and regulations**.
+- Mentored junior developers and provided technical guidance.
 
-### Front End Developer - Angular, Giraffe Code
-**01/2020 – 02/2022**  
-📍 Cairo, Egypt
+💡 **Key Achievements:**
+- Successfully delivered robust **government projects**.
+- Improved application performance and UX with optimized **UI design**.
+- Implemented **CI/CD pipelines and automated testing** for enhanced team efficiency.
 
-- Worked on Easy Shopping App & Dashboard.
-- Developed and implemented user-friendly and responsive front-end interfaces using Angular, HTML5, CSS3, and JavaScript.
-- Built highly scalable and performant web applications with optimized code structure and best practices.
+---
 
-### UI Developer, Ahl Alqma
-**08/2019 – 03/2020**  
-📍 Masoura, Egypt
+### **Senior Front-End Developer (Part-Time), Velents**
+📅 **Sep 2024 – Dec 2024** | 📍 Remote, Riyadh, Saudi Arabia
 
-- Developed and implemented user-friendly and responsive front-end interfaces using HTML5, CSS3, JavaScript, and Bootstrap.
-- Created landing pages and WordPress templates.
+- Worked on **Fakhoor**, an AI-powered talent acquisition platform for automated hiring.
+- Developed a flexible and scalable **front-end architecture**.
+- Created a **seamless UI/UX** for both employers and job seekers.
+
+---
+
+### **Front-End Developer, GetN Company**
+📅 **Apr 2024 – Aug 2024** | 📍 Remote, Cairo, Egypt
+
+- Designed and developed responsive **landing pages and dashboards**.
+- Used **Angular and Next.js** for modern, high-performance interfaces.
+- Improved **SEO, performance, and accessibility**.
+
+---
+
+### **Front-End Developer, Shaqra University**
+📅 **Mar 2022 – Aug 2023** | 📍 Shaqra, Saudi Arabia
+
+- Developed **ERP systems** for educational processes.
+- Built interactive **Angular applications** using **SCSS, Angular CLI, and Material UI**.
+- Ensured scalability and high-quality UX/UI designs.
+
+---
+
+### **Front-End Developer (Angular), Giraffe Code**
+📅 **Jun 2020 – Feb 2022** | 📍 Cairo, Egypt
+
+- Developed the **Easy Shopping App & Dashboard**.
+- Built high-performance and scalable applications with **Angular, HTML5, CSS3, and JavaScript**.
+- Followed **best coding practices** for optimized web solutions.
+
+---
+
+### **UI Developer, Ahl Alqma**
+📅 **Aug 2019 – Mar 2020** | 📍 Mansoura, Egypt
+
+- Developed responsive front-end interfaces using **HTML5, CSS3, JavaScript, and Bootstrap**.
+- Created **landing pages and WordPress templates**.
 
 ---
 
 ## 🎓 Education
 
 **Bachelor's Degree in Information & Education Technology**  
-**Azhar University**  
-**2010 – 2014**
+📍 **Azhar University** | 🗓️ **2010 – 2014**
 
 ---
 
 ## 🛠️ Skills
 
-- **Front-End Development**: HTML5, CSS3, JavaScript, Angular
-- **CSS Pre-processors**: SASS/SCSS
-- **Web Performance Optimization**: SEO best practices, responsive design, cross-browser compatibility
-- **Front-End Frameworks**: Bootstrap, Tailwind
-- **Version Control**: Git, GitHub
-- **Agile Methodologies**: Jira
-- **Containerization**: Docker, Docker Compose
-- **JavaScript Proficiency**: Object-oriented programming, design patterns, best practices
-- **API Integration**: RESTful APIs, Angular development, Angular CLI, RxJS, NgRx, TypeScript
-- **Web Development Tools**: Angular Material, Webpack, browser developer tools
-- **Modular and Reusable Components**: Creating reusable components, server-side rendering
+### 🔹 **Front-End Development**
+✅ HTML5, CSS3, JavaScript, TypeScript  
+✅ Angular (CLI, RxJS, NgRx, Material UI)  
+✅ React (Redux)  
+✅ Bootstrap, Tailwind CSS  
+
+### 🔹 **Performance & Optimization**
+✅ Web Performance Optimization  
+✅ SEO Best Practices  
+✅ Cross-Browser Compatibility  
+✅ Responsive Design  
+
+### 🔹 **Tools & Technologies**
+✅ Git, GitHub, Jira  
+✅ Docker, Docker-Compose  
+✅ CI/CD (GitHub Actions)  
+✅ Unit Testing (Jest, Jasmine, Karma)  
+✅ Webpack, Browser Dev Tools  
+
+### 🔹 **API & Backend Integration**
+✅ RESTful APIs  
+✅ Express.js, MongoDB  
+✅ C#, SQL, Entity Framework Core, ASP.NET Core  
 
 ---
 
-## 🌟 Additional Skills
+## 🌟 Additional Information
 
-- **Backend Technologies**: ExpressJS, MongoDB, C#, SQL, Entity Framework Core, ASP.NET Core
+- 🏆 Passionate about **mentorship and knowledge sharing**.
+- 🛠️ Advocate for **clean code and scalable architecture**.
+- 🎨 Love crafting **visually appealing and high-performing applications**.
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or learn more about my work. Let's build something great together! 🚀
+💬 **Let’s connect and build something amazing!** 🚀
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
