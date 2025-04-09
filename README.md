@@ -2,7 +2,7 @@
 
 ## 👋 Welcome to My Professional Portfolio
 
-Hello! I am **Mohamed Algharib**, a passionate **Senior Front-End Developer** with expertise in **Angular** and modern web technologies. With a strong background in building scalable, responsive, and user-friendly web applications, I take pride in crafting seamless digital experiences.
+Hello! I am **Mohamed Algharib**, a passionate **Senior Front-End Developer** with expertise in  modern web technologies. With a strong background in building scalable, responsive, and user-friendly web applications, I take pride in crafting seamless digital experiences.
 
 📍 **Location:** Riyadh, Saudi Arabia  
 📧 **Email:** [mohamedalgharib26@gmail.com](mailto:mohamedalgharib26@gmail.com)  
