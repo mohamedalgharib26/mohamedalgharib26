@@ -7,7 +7,7 @@ Hello! I am **Mohamed Algharib**, a passionate **Senior Front-End Developer** wi
 📍 **Location:** Riyadh, Saudi Arabia  
 📧 **Email:** [mohamedalgharib26@gmail.com](mailto:mohamedalgharib26@gmail.com)  
 📱 **Phone:** +966 575219537  
-🔗 **GitHub:** [github.com/Diyasty](https://github.com/Diyasty)  
+🔗 **GitHub:** [github.com/Diyasty](https://github.com/mohamedalgharib26)  
 🔗 **LinkedIn:** [linkedin.com/in/mohamed-algharib26](https://linkedin.com/in/mohamed-algharib26)  
 🔗 **Portfolio:** [View My Work](https://www.mohamedalgharib.site/)  
 
